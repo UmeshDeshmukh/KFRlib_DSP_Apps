@@ -1,0 +1,17 @@
+# ninja log v5
+1	13145	1660628953697666665	CMakeFiles/example.dir/example.cpp.o	2f6820a3239e8d08
+2	43814	1660628984340275757	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/convolution-impl.cpp.o	d7ff79b9c5b106cd
+5	54048	1660628994565027321	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/dft-impl-f64.cpp.o	6273e54a4688478f
+7	59936	1660629000457401230	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/fft-impl-f32.cpp.o	65c4ac0613af262a
+10	55154	1660628995685101649	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/fft-impl-f64.cpp.o	177db23fc6928d14
+4	64589	1660629005105667352	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/dft-impl-f32.cpp.o	8d651e01a081f9e6
+2	14661	1660629114650436935	CMakeFiles/example.dir/example.cpp.o	2f6820a3239e8d08
+14661	15247	1660629115278418728	example	c9ddb8f8e34c3870
+3	44474	1660629144465378751	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/convolution-impl.cpp.o	d7ff79b9c5b106cd
+15248	58962	1660629158968736440	kfr/CMakeFiles/kfr_io.dir/include/kfr/io/impl/audiofile-impl.cpp.o	1fc8856663f9ed0a
+58963	59104	1660629159140728363	kfr/libkfr_io.a	73acdb6fb28ddd4e
+7	62448	1660629162432572111	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/fft-impl-f64.cpp.o	177db23fc6928d14
+5	63778	1660629163752508466	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/dft-impl-f64.cpp.o	6273e54a4688478f
+5	70216	1660629170196189647	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/fft-impl-f32.cpp.o	65c4ac0613af262a
+4	71303	1660629171284134518	kfr/CMakeFiles/kfr_dft.dir/include/kfr/dft/impl/dft-impl-f32.cpp.o	8d651e01a081f9e6
+71303	71428	1660629171408128206	kfr/libkfr_dft.a	d12a03bc7d1983f
